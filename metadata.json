@@ -1,0 +1,7 @@
+{
+  "name": "AR Health Monitor with Gemini AI",
+  "description": "A futuristic web application that uses your camera to simulate real-time blood pressure and sugar level monitoring with an AR interface. It also includes a suite of Gemini-powered AI tools for health-related chat, image analysis of meals, and quick health queries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
